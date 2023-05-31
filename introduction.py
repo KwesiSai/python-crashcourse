@@ -1,1 +1,1 @@
-This is an introduction to python programming
+print("This is my journey to learning python programming")
